@@ -1,3 +1,4 @@
+https://luis-ramirez21x.github.io/NBA-Player-Comparison-App/
 # WELCOME TO ALL-STAR TEAM DRAFT!
 
 This is all about finding your favorite Basketball team. Over here, we will make your Dream Team factual. 
