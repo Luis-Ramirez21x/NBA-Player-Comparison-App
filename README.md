@@ -19,9 +19,9 @@ The API's that we used:
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Foundation](https://get.foundation/frameworks-docs.html) - Front-end framework
+* [HTML/CSS/Javascript](https://github.com/Luis-Ramirez21x/NBA-Player-Comparison-App) - Technologies used
+
 
 ## Search Cards
 
@@ -51,7 +51,7 @@ here is a demo player card screenshot.
 ___
 ![ScreenShot12](./assets/images/ss2.PNG)
 
-## Inqueries
+## Inquiries 
 
 > For twitter, facebook and github support, feel free to like and comment in our pages.
 
