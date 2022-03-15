@@ -1,4 +1,4 @@
-https://luis-ramirez21x.github.io/NBA-Player-Comparison-App/
+Deployed-link: https://luis-ramirez21x.github.io/NBA-Player-Comparison-App/
 # NBA Player Comparison App
 
 This application will allow you to search up nba players and compare their stats side by side as displayed in the images below. Aside from their stats, their player cards will also display each player's upcoming games. As you search up players you can then add them to your roster by position, E.G. Center, Point-guard, Power Forward, etc. Once you have your roster you can then name and save that team and it will be saved to local storage. The app also includes a timer element that you can use to pace yourself or a friend to see who can put together the best team.
