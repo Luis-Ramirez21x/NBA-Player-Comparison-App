@@ -55,7 +55,7 @@ here is a demo player card screenshot.
 ___
 ![ScreenShot12](./assets/images/ss2.PNG)
 
-## Inquaries 
+## Inqueries
 
 > For twitter, facebook and github support, feel free to like and comment in our pages.
 
@@ -64,3 +64,6 @@ ___
 
 
 **thank you for your support and love.**
+
+## License
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
