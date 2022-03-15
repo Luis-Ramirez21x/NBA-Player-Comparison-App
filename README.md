@@ -1,7 +1,7 @@
 https://luis-ramirez21x.github.io/NBA-Player-Comparison-App/
-# WELCOME TO ALL-STAR TEAM DRAFT!
+# NBA Player Comparison App
 
-This is all about finding your favorite Basketball team. Over here, we will make your Dream Team factual. 
+This application will allow you to search up nba players and compare their stats side by side as displayed in the images below. Aside from their stats, their player cards will also display each player's upcoming games. As you search up players you can then add them to your roster by position, E.G. Center, Point-guard, Power Forward, etc. Once you have your roster you can then name and save that team and it will be saved to local storage. The app also includes a timer element that you can use to pace yourself or a friend to see who can put together the best team.
 
 
 ___
@@ -16,16 +16,12 @@ The API's that we used:
 * [API TWO](http://data.nba.net/10s/prod/v1/2021/teams/hawks/schedule.json)
 
 
-## Index Section 
 
+## Built With
 
-> have **About us** , **Contact Us** & **NBA API Links**
-
-
-## Title and description
-
-> this part has a class container welcoming our **All-Star Team Draft** and the rules to make your team happen in real time!
-
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Search Cards
 
